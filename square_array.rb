@@ -1,3 +1,7 @@
 def square_array(array)
-  # your code here
+  array.collect {|numbers| numbers * numbers}# your code here
+end
+
+def square_array(numbers)
+ 
 end
